@@ -1,3 +1,4 @@
+# Utilizamos colorama para colorear el texto
 from colorama import init, Fore, Style
 
 no_color = Style.RESET_ALL
